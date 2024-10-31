@@ -1,0 +1,19 @@
+.extract-viewer-pane
+{
+max-width:100%;
+max-height:600px;
+overflow-y : auto;
+}
+
+.extract-jackets
+{
+	 list-style-type: none;
+}
+.extract-jackets li
+{
+	display: inline;
+}
+.jacket
+{
+	max-width:120px;
+}
